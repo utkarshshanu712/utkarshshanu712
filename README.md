@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in web a
 ## 🌟 Projects
 Here are some of my featured projects:
 
-### 📺 [YouTube-Playlist-video-song-Downloader-upto-8k](https://github.com/yourusername/YouTube-Playlist-video-song-Downloader-upto-8k)
+### 📺 [YouTube-Playlist-video-song-Downloader-upto-8k](https://github.com/utkarshshanu712/YouTube-Playlist-video-song-Downloader-upto-8k)
 A powerful tool to download YouTube playlist videos and songs in up to 8K resolution.
 
 
-### 📝 [Transparent-notes-pro](https://github.com/yourusername/Transparent-notes-pro)
+### 📝 [Transparent-notes-pro](https://github.com/utkarshshanu712/transparent-notes-pro)
 An advanced note-taking application that allows you to take transparent notes on your desktop.
 
 ## 📫 Contact Me
